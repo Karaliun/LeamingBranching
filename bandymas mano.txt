@@ -1,0 +1,5 @@
+
+Versija v0.1 
+buvo 
+realizuotas Hello word 
+versija
